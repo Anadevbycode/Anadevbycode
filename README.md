@@ -4,12 +4,46 @@ OLÁ !EU SOU  A ANA PAULA 👋
 - ESTUDANDO GERENCIAMENTO DE PROJETOS E JAVA EM ORIENTAÇÃO A OBJETOS 👩‍💻
 - ESTOU COLABORANDO ATUAMENTE NO LABORATÓRIO DE INCLUSÃO DIGITAL DA UNIVERSIDADE ESTÁCIO DE SÁ
 - 📫 Contate-me pelo email -> anapaulacastro966@gmail.com
--   👩 pronouns : ela / dela 
+-   👩 pronouns : ela / dela
+
+༼ つ ◕_◕ ༽つ LINKEDLN : https://www.linkedin.com/in/ana-paula-castro-72613921b
+
+
+╰(*°▽°*)╯ whastsapp : https://wa.me/5521964649672
 
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anadevbycode&theme=radical" width="350"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=Anadevbycode&theme=radical" width="350"/>              
+
+
+
+
+
+
+
+
+
+![67bc2e2ef7c420fd981ec99f71396600 ](https://user-images.githubusercontent.com/101351761/166745098-339361dd-625f-4a43-b820-e27282f941f4.gif)
+
+
+
+
+                            
+
+
+
+
+
+
+
+
+
+                                                             
+
+
+
+                                              
 
 
      
