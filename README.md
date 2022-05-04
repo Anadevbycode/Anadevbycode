@@ -9,6 +9,13 @@ OLÁ !EU SOU  A ANA PAULA 👋
 
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=Anadevbycode&theme=radical" width="350"/> 
+
+
+     
+     
+     
+    
 
 
 
