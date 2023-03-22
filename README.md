@@ -2,6 +2,10 @@ OLÁ !  EU SOU  A ANA PAULA 👋
 
 - Cursando engenharia de software na universidade de vassouras ( 2/8)
 - Gosto de ler , amo cultura pop de modo geral 
+- Meu spotifly:   https://open.spotify.com/collection/playlists
+
+
+
 
 ༼ つ ◕_◕ ༽つ LINKEDLN : https://www.linkedin.com/in/ana-paula-castro-72613921b
 
