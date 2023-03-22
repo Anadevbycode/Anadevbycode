@@ -1,10 +1,7 @@
 OLÁ !  EU SOU  A ANA PAULA 👋
 
-- HOJE ESTOU A PROCURA DO  MEU PRIMEIRO ESTÁGIO😊 
-- ESTUDANDO GERENCIAMENTO DE PROJETOS E JAVA EM ORIENTAÇÃO A OBJETOS 👩‍💻
-- ESTOU COLABORANDO ATUAMENTE NO LABORATÓRIO DE INCLUSÃO DIGITAL DA UNIVERSIDADE ESTÁCIO DE SÁ
-- 📫 Contate-me pelo email -> anapaulacastro966@gmail.com
--   👩 pronouns : ela / dela
+- Cursando engenharia de sotware na universidade de vassouras ( 2/8)
+- Gosto de ler , amo cultura pop de modo geral 
 
 ༼ つ ◕_◕ ༽つ LINKEDLN : https://www.linkedin.com/in/ana-paula-castro-72613921b
 
