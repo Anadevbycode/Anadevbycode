@@ -10,7 +10,7 @@ OLÁ !  EU SOU  A ANA PAULA 👋
 ༼ つ ◕_◕ ༽つ LINKEDLN : https://www.linkedin.com/in/ana-paula-castro-72613921b
 
 
-╰(*°▽°*)╯ whastsapp : https://wa.me/5521964649672
+
 
 
 
