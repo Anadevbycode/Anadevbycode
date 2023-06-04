@@ -1,7 +1,7 @@
 OLÁ !  EU SOU  A ANA PAULA 👋
 
-- Cursando engenharia de software na universidade de vassouras ( 2/8)
-- Gosto de ler , amo cultura pop de modo geral 
+- Atualmente estou matriculada no curso de Engenharia de Software na Universidade de Vassouras, onde estou no momento no segundo periodo .  
+- Tenho um grande apreço pela leitura e sou apaixonado pela cultura pop em geral.
 - Meu spotifly:   https://open.spotify.com/collection/playlists
 
 
@@ -15,7 +15,7 @@ OLÁ !  EU SOU  A ANA PAULA 👋
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anadevbycode&theme=merko" width="350"/>  
+<center><img src="https://github-readme-stats.vercel.app/api?username=Anadevbycode&theme=merko" width="350"/></center>  
 
 
 
