@@ -5,11 +5,13 @@
 
 
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ana+Paula;I'm+23+years+old;I'm+from+Brazil;I+student+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
-
+                     
+  ![download20240100161858_001](https://github.com/Anadevbycode/Anadevbycode/assets/101351761/9f024de1-bb1e-4df0-834b-088a7c3d80ed)
 
 
 
@@ -35,7 +37,7 @@
 
                        
 ---
-
+                                               
  
 ### Studying in this moment:  :octocat: :crystal_ball:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
