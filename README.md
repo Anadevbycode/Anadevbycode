@@ -40,21 +40,29 @@
  
 ### Studying in this moment:  :octocat: :crystal_ball:
 
-<img s height=27 and width=27   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />         
-<img s height=27 and width=27   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />          
-<img s height=27 and width=27 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img s height=27 and width=27  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img s height=40 and width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />       <img s height=40 and width=40   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />                        
+<img s height=40 and width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />                 <img s height=40 and width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />         
+<img  s height=40 and width=40  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          
           
 
           
 
           
 
-  ### Habilidades:
-
-  
-  <img s height=24 and width=24 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img s height=24 and width=24  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  ### Habilidades: 🚀🔥
+ 
+  <img s height=30 and width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />     <img s height=30 and width=30  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+                                                                                                                         
+   <img s height=30 and width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />      <img  s height=30 and width=30  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+ <img  s height=30 and width=30    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />    <img s height=30 and width=30  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+                                                                                                                                   
+          
+                                                                                                                                      
+          
+          
+          
+          
   
  
           
